@@ -1,0 +1,196 @@
+{
+    "guitar": [
+        {
+            "name": "Antonio Giuliani Acoustic Guitar Bundle (DN-1) - Dreadnought Guitar with Case, Strap, Strings and Accessories",
+            "description": "The Antonio Giuliani Acoustic Guitar is a full-size dreadnought guitar made with high-quality materials. The guitar features a spruce top and mahogany back and sides, providing a rich, full-bodied sound. The guitar bundle includes a hardshell case, strap, strings and accessories, making it a great choice for beginner to intermediate players.",
+            "features": [
+                "Antonio Giuliani",
+                "Natural",
+                "Spruce top and mahogany back and sides",
+                "Right hand orientation",
+                "Dreadnought body style"
+            ],
+            "price": "$299.99"
+        },
+        {
+            "name": "Beginner 41\" Cutaway Acoustic Guitar - Standard Full Size 6 String Dreadnought Natural Matte Finish w/ Gig Bag, Tuner, Steel Strings, Picks, Strap, Capo, For Beginners/Adults - Pyle PGA480NT",
+            "description": "The Beginner 41\" Cutaway Acoustic Guitar is a full-size dreadnought guitar designed for beginner to intermediate players. The guitar features a natural matte finish, steel strings, and a cutaway design, making it easy to play high notes. The bundle includes a gig bag, tuner, picks, strap, and capo, making it a great value.",
+            "features": [
+                "Pyle",
+                "Natural matte finish",
+                "Steel strings",
+                "Right hand orientation",
+                "Dreadnought body style"
+            ],
+            "price": "$99.99"
+        },
+        {
+            "name": "Fender Squier Dreadnought Acoustic Guitar - Natural Bundle with Gig Bag, Tuner, Strap, Strings, Picks, Fender Play Online Lessons, and Austin Bazaar Instructional DVD",
+            "description": "The Fender Squier Dreadnaught Guitar is a full-size steel-string acoustic that offers big sound at a small price. All-laminate construction with lindenwood top and mahogany back and sides. Scalloped \"X\"-bracing, mahogany neck and a durable dark-stained maple fingerboard. Slim, easy-to-play neck and full-bodied dreadnought tone. Bundle includes Gig Bag, Tuner, Strings, Strap, Picks, Fender Play Online Lessons, and Austin Bazaar Instructional DVD.",
+            "features": [
+                "Fender",
+                "Natural",
+                "Lindenwood top and mahogany back and sides",
+                "Right hand orientation",
+                "Dreadnought body style"
+            ],
+            "price": "$179.99"
+        },
+        {
+            "name": "Martin Steel String Backpacker Travel Guitar",
+            "description": "The Martin Steel String Backpacker is a compact and lightweight travel guitar that's perfect for musicians on the go. It's made from high-quality materials and features a steel-string design for a bright and resonant sound. The compact size makes it easy to pack and transport, making it ideal for camping trips, road trips, and more.",
+            "features": [
+                "Compact and lightweight design",
+                "Steel string design",
+                "High-quality construction",
+                "Bright and resonant sound"
+            ],
+            "price": "$300.00"
+        },
+        {
+            "name": "Taylor Big Baby Taylor Acoustic Guitar",
+            "description": "The Taylor Big Baby Taylor is a versatile and portable guitar that's perfect for players of all levels. It features a full-size body and a big sound, making it ideal for a wide range of musical styles. The guitar is made from high-quality materials and features a comfortable neck and easy-to-play action, making it a great choice for beginners and experienced players alike.",
+            "features": [
+                "Full-size body",
+                "Big sound",
+                "High-quality materials",
+                "Comfortable neck",
+                "Easy-to-play action"
+            ],
+            "price": "$499.00"
+        },
+        {
+            "name": "Yamaha FG800 Folk Acoustic Guitar",
+            "description": "The Yamaha FG800 is a classic folk-style acoustic guitar that's perfect for players of all levels. It features a solid spruce top, nato back and sides, and a comfortable rosewood fingerboard for a warm and rich sound. The guitar is easy to play and features a classic look, making it ideal for folk, country, and other styles of music.",
+            "features": [
+                "Solid spruce top",
+                "Nato back and sides",
+                "Rosewood fingerboard",
+                "Warm and rich sound",
+                "Classic look"
+            ],
+            "price": "$399.99"
+        },
+        {
+            "name": "Fender CD-60SCE Dreadnought Acoustic-Electric Guitar",
+            "description": "The Fender CD-60SCE is a dreadnought-style acoustic-electric guitar that's perfect for players of all levels. It features a solid spruce top and mahogany back and sides, as well as a cutaway design for easy access to the upper frets. The guitar also comes equipped with an onboard Fishman preamp system, making it easy to plug into an amplifier or PA system.",
+            "features": [
+                "Dreadnought-style body",
+                "Solid spruce top",
+                "Mahogany back and sides",
+                "Cutaway design",
+                "Fishman preamp system"
+            ],
+            "price": "$499.99"
+        },
+        {
+            "name": "Epiphone DR-100 Acoustic Guitar",
+            "description": "The Epiphone DR-100 is a classic dreadnought-style acoustic guitar that's perfect for players of all levels. It features a solid spruce top and mahogany back and sides, as well as a comfortable neck and easy-to-play action. The guitar is made from high-quality materials and features a classic look, making it ideal for folk, country, and other styles of music.",
+            "features": [
+                "Dreadnought-style body",
+                "Solid spruce top",
+                "Mahogany back and sides",
+                "Comfortable neck",
+                "Easy-to-play action"
+            ],
+            "price": "$199.00"
+        },
+        {
+            "name": "Guild OM-140CE Orchestra Model Cutaway Acoustic-Electric Guitar",
+            "description": "The Guild OM-140CE is an orchestra model-style acoustic-electric guitar that's perfect for players of all levels. It features a solid spruce top, mahogany back and sides, and a cutaway design for easy access to the upper frets. The guitar also comes equipped with an onboard Fishman preamp system, making it easy to plug into an amplifier or PA system.",
+            "features": [
+                "Orchestra model-style body",
+                "Solid spruce top",
+                "Mahogany back and sides",
+                "Cutaway design",
+                "Fishman preamp system"
+            ],
+            "price": "$599.99"
+        },
+        {
+            "name": "Ibanez AC240 Artwood Dreadnought Acoustic Guitar",
+            "description": "The Ibanez AC240 is a dreadnought-style acoustic guitar that's perfect for players of all levels. It features a solid spruce top and mahogany back and sides, as well as a comfortable neck and easy-to-play action. The guitar is made from high-quality materials and features a classic look, making it ideal for folk, country, and other styles of music.",
+            "features": [
+                "Dreadnought-style body",
+                "Solid spruce top",
+                "Mahogany back and sides",
+                "Comfortable neck",
+                "Easy-to-play action"
+            ],
+            "price": "$349.99"
+        },
+        {
+            "name": "Washburn WD10SCE Acoustic-Electric Guitar",
+            "description": "The Washburn WD10SCE is a dreadnought-style acoustic-electric guitar that's perfect for players of all levels. It features a solid spruce top and mahogany back and sides, as well as a cutaway design for easy access to the upper frets. The guitar also comes equipped with an onboard Fishman preamp system, making it easy to plug into an amplifier or PA system.",
+            "features": [
+                "Dreadnought-style body",
+                "Solid spruce top",
+                "Mahogany back and sides",
+                "Cutaway design",
+                "Fishman preamp system"
+            ],
+            "price": "$449.99"
+        },
+        {
+            "name": "Seagull S6 Original Acoustic Guitar",
+            "description": "The Seagull S6 Original is a classic folk-style acoustic guitar that's perfect for players of all levels. It features a solid cedar top and wild cherry back and sides, as well as a comfortable neck and easy-to-play action. The guitar is made from high-quality materials and features a classic look, making it ideal for folk, country, and other styles of music.",
+            "features": [
+                "Folk-style body",
+                "Solid cedar top",
+                "Wild cherry back and sides",
+                "Comfortable neck",
+                "Easy-to-play action"
+            ],
+            "price": "$449.00"
+        },
+        {
+            "name": "Cordoba C5-CE Classical Nylon String Guitar",
+            "description": "The Cordoba C5-CE is a classical-style nylon string guitar that's perfect for players of all levels. It features a solid Canadian cedar top and mahogany back and sides, as well as a comfortable neck and easy-to-play action. The guitar is made from high-quality materials and features a classic look, making it ideal for classical, flamenco, and other styles of music.",
+            "features": [
+                "Classical-style body",
+                "Solid Canadian cedar top",
+                "Mahogany back and sides",
+                "Comfortable neck",
+                "Easy-to-play action"
+            ],
+            "price": "$499.99"
+        },
+        {
+            "name": "Gretsch G5022CWFE Rancher Falcon Jumbo Cutaway Acoustic-Electric Guitar",
+            "description": "The Gretsch G5022CWFE Rancher Falcon Jumbo is a jumbo-style acoustic-electric guitar that's perfect for players of all levels. It features a solid spruce top and flame maple back and sides, as well as a cutaway design for easy access to the upper frets. The guitar also comes equipped with an onboard Fishman preamp system, making it easy to plug into an amplifier or PA system.",
+            "features": [
+                "Jumbo-style body",
+                "Solid spruce top",
+                "Flame maple back and sides",
+                "Cutaway design",
+                "Fishman preamp system"
+            ],
+            "price": "$699.99"
+        },
+        {
+            "name": "Alvarez Artist Series AD60 Dreadnought Acoustic Guitar",
+            "description": "The Alvarez Artist Series AD60 is a dreadnought-style acoustic guitar that's perfect for players of all levels. It features a solid spruce top and mahogany back and sides, as well as a comfortable neck and easy-to-play action. The guitar is made from high-quality materials and features a classic look, making it ideal for folk, country, and other styles of music.",
+            "features": [
+                "Dreadnought-style body",
+                "Solid spruce top",
+                "Mahogany back and sides",
+                "Comfortable neck",
+                "Easy-to-play action"
+            ],
+            "price": "$349.99"
+        },
+        {
+            "name": "Rogue RA-090 Concert Cutaway Acoustic Guitar",
+            "description": "The Rogue RA-090 is a concert-style acoustic guitar that's perfect for players of all levels. It features a solid spruce top and mahogany back and sides, as well as a cutaway design for easy access to the upper frets. The guitar is made from high-quality materials and features a comfortable neck and easy-to-play action, making it a great choice for beginners and experienced players alike.",
+            "features": [
+                "Concert-style body",
+                "Solid spruce top",
+                "Mahogany back and sides",
+                "Cutaway design",
+                "Comfortable neck",
+                "Easy-to-play action"
+            ],
+            "price": "$199.99"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "mattress": [
+        {
+            "name": "Casper Wave Hybrid - Queen",
+            "description": "The Casper Wave Hybrid is a luxury mattress that combines foam and coils to provide both comfort and support.",
+            "features": [
+                "Foam and coil construction for comfort and support",
+                "Pressure-relieving foam",
+                "Breathable design",
+                "100-night sleep trial"
+            ],
+            "price": "$1,995"
+        },
+        {
+            "name": "Nectar Memory Foam Mattress - Queen",
+            "description": "The Nectar Memory Foam Mattress is a comfortable and affordable memory foam mattress that conforms to your body.",
+            "features": [
+                "Memory foam construction for body-contouring comfort",
+                "Gel-infused foam for temperature regulation",
+                "Breathable design",
+                "Forever warranty"
+            ],
+            "price": "$799"
+        },
+        {
+            "name": "Purple Hybrid Premier - Queen",
+            "description": "The Purple Hybrid Premier is a luxury mattress that features a unique pressure-relieving grid for optimal comfort.",
+            "features": [
+                "Hybrid construction with pressure-relieving grid",
+                "Hyper-Elastic Polymer for comfort and support",
+                "Breathable design",
+                "100-night sleep trial"
+            ],
+            "price": "$2,599"
+        },
+        {
+            "name": "Tuft & Needle Adaptive Foam Mattress - Queen",
+            "description": "The Tuft & Needle Adaptive Foam Mattress is a comfortable and affordable foam mattress that adapts to your body.",
+            "features": [
+                "Adaptive foam construction for body-contouring comfort",
+                "Breathable design",
+                "100-night sleep trial"
+            ],
+            "price": "$595"
+        },
+        {
+            "name": "Serta iComfort Hybrid Mattress - Queen",
+            "description": "The Serta iComfort Hybrid Mattress is a luxury mattress that combines foam and coils for comfort and support.",
+            "features": [
+                "Foam and coil construction for comfort and support",
+                "Pressure-relieving foam",
+                "Breathable design",
+                "120-night sleep trial"
+            ],
+            "price": "$1,499"
+        },
+        {
+            "name": "DreamCloud Luxury Hybrid Mattress - Queen",
+            "description": "The DreamCloud Luxury Hybrid Mattress is a comfortable and supportive mattress that combines foam and coils.",
+            "features": [
+                "Foam and coil construction for comfort and support",
+                "Pressure-relieving foam",
+                "Breathable design",
+                "365-night sleep trial"
+            ],
+            "price": "$1,199"
+        },
+        {
+            "name": "Puffy Lux Mattress - Queen",
+            "description": "The Puffy Lux Mattress is a comfortable and affordable foam mattress that conforms to your body.",
+            "features": [
+                "Foam construction for body-contouring comfort",
+                "Gel-infused foam for temperature regulation",
+                "Breathable design",
+                "101-night sleep trial"
+            ],
+            "price": "$1,850"
+        },
+        {
+            "name": "Helix Midnight Luxe - Queen",
+            "description": "The Helix Midnight Luxe is a luxury hybrid mattress that combines foam and coils for comfort and support, with a soft firmness level.",
+            "features": [
+                "Hybrid construction with foam and coils for comfort and support",
+                "Soft firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$1,599"
+        },
+        {
+            "name": "Brooklyn Bedding Aurora - King",
+            "description": "The Brooklyn Bedding Aurora is a luxury hybrid mattress that combines foam and coils for comfort and support, with a medium firmness level.",
+            "features": [
+                "Hybrid construction with foam and coils for comfort and support",
+                "Medium firmness level",
+                "120-night sleep trial"
+            ],
+            "price": "$1,799"
+        },
+        {
+            "name": "Cocoon Chill Soft Memory Foam - Full",
+            "description": "The Cocoon Chill Soft Memory Foam is a comfortable memory foam mattress with a soft firmness level.",
+            "features": [
+                "Memory foam construction for comfort",
+                "Soft firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$699"
+        },
+        {
+            "name": "Avocado Green Mattress - Twin XL",
+            "description": "The Avocado Green Mattress is a natural and organic mattress with a medium firmness level.",
+            "features": [
+                "Natural and organic materials",
+                "Medium firmness level",
+                "365-night sleep trial"
+            ],
+            "price": "$1,399"
+        },
+        {
+            "name": "WinkBeds EcoCloud - Cal King",
+            "description": "The WinkBeds EcoCloud is a luxury hybrid mattress with a soft firmness level, made with eco-friendly materials.",
+            "features": [
+                "Hybrid construction with eco-friendly materials",
+                "Soft firmness level",
+                "120-night sleep trial"
+            ],
+            "price": "$2,599"
+        },
+        {
+            "name": "Loom & Leaf Relaxed Firm - King",
+            "description": "The Loom & Leaf Relaxed Firm is a luxury memory foam mattress with a relaxed firmness level.",
+            "features": [
+                "Memory foam construction for comfort",
+                "Relaxed firmness level",
+                "120-night sleep trial"
+            ],
+            "price": "$1,499"
+        },
+        {
+            "name": "Nolah Evolution - Queen",
+            "description": "The Nolah Evolution is a luxury foam mattress with a medium firmness level, designed to reduce pressure points.",
+            "features": [
+                "Foam construction with pressure-relieving design",
+                "Medium firmness level",
+                "120-night sleep trial"
+            ],
+            "price": "$1,499"
+        },
+        {
+            "name": "Bear Pro - Queen",
+            "description": "The Bear Pro is a comfortable and supportive foam mattress with a medium firmness level, designed for athletes.",
+            "features": [
+                "Foam construction for comfort and support",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$1,099"
+        },
+        {
+            "name": "Casper Essential - Twin",
+            "description": "The Casper Essential is a comfortable and affordable foam mattress with a medium firmness level.",
+            "features": [
+                "Foam construction for comfort",
+                "Medium firmness level",
+                "00-night sleep trial"
+            ],
+            "price": "$449"
+        },
+        {
+            "name": "Zenhaven Luxury Plush - King",
+            "description": "The Zenhaven Luxury Plush is a luxury latex mattress with a plush firmness level.",
+            "features": [
+                "Latex construction for comfort",
+                "Plush firmness level",
+                "120-night sleep trial"
+            ],
+            "price": "$2,499"
+        },
+        {
+            "name": "Beautyrest Black Hybrid - King",
+            "description": "The Beautyrest Black Hybrid is a luxury mattress that combines foam and coils for comfort and support, with a medium firmness level.",
+            "features": [
+                "Hybrid construction with foam and coils for comfort and support",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$3,499"
+        },
+        {
+            "name": "Purple Essential Mattress - Queen",
+            "description": "The Purple Essential Mattress is a comfortable foam mattress with a medium firmness level, featuring the brand's signature pressure-relieving grid.",
+            "features": [
+                "Foam construction with pressure-relieving grid",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$699"
+        },
+        {
+            "name": "Simba Hybrid Pro Mattress - Double",
+            "description": "The Simba Hybrid Pro Mattress is a comfortable and supportive mattress that combines foam and coils, with a medium firmness level.",
+            "features": [
+                "Hybrid construction with foam and coils for comfort and support",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$1,099"
+        },
+        {
+            "name": "Helix Sunset Luxe - Twin XL",
+            "description": "The Helix Sunset Luxe is a luxury hybrid mattress that combines foam and coils for comfort and support, with a medium firmness level.",
+            "features": [
+                "Hybrid construction with foam and coils for comfort and support",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$1,099"
+        },
+        {
+            "name": "Vaya Comfort Mattress - Twin",
+            "description": "The Vaya Comfort Mattress is a comfortable and affordable foam mattress with a medium firmness level.",
+            "features": [
+                "Foam construction for comfort",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$449"
+        },
+        {
+            "name": "Lull Mattress - King",
+            "description": "The Lull Mattress is a comfortable and supportive foam mattress with a medium firmness level.",
+            "features": [
+                "Foam construction for comfort and support",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$895"
+        },
+        {
+            "name": "Casper Essential Mattress - King",
+            "description": "The Casper Essential Mattress is a comfortable and affordable foam mattress with a medium firmness level.",
+            "features": [
+                "Foam construction for comfort",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$995"
+        },
+        {
+            "name": "Nest Alexander Hybrid - Queen",
+            "description": "The Nest Alexander Hybrid is a luxury hybrid mattress with a medium firmness level, designed for comfort and support.",
+            "features": [
+                "Hybrid construction for comfort and support",
+                "Medium firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$1,799"
+        },
+        {
+            "name": "Stearns & Foster Estate Firm - Queen",
+            "description": "The Stearns & Foster Estate Firm is a luxury hybrid mattress that combines foam and coils for comfort and support, with a firm firmness level.",
+            "features": [
+                "Hybrid construction with foam and coils for comfort and support",
+                "Firm firmness level",
+                "120-night sleep trial"
+            ],
+            "price": "$2,199"
+        },
+        {
+            "name": "Simmons Beautyrest Black K-Class Firm - King",
+            "description": "The Simmons Beautyrest Black K-Class Firm is a luxury hybrid mattress that combines foam and coils for comfort and support, with a firm firmness level.",
+            "features": [
+                "Hybrid construction with foam and coils for comfort and support",
+                "Firm firmness level",
+                "100-night sleep trial"
+            ],
+            "price": "$2,799"
+        },
+        {
+            "name": "Sealy Response Performance Collection Firm - Full",
+            "description": "The Sealy Response Performance Collection Firm is a comfortable and supportive hybrid mattress with a firm firmness level.",
+            "features": [
+                "Hybrid construction with foam and coils for comfort and support",
+                "Firm firmness level",
+                "120-night sleep trial"
+            ],
+            "price": "$1,199"
+        }
+    ]
+}

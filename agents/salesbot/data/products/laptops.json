@@ -1,0 +1,319 @@
+{
+    "laptop": [
+        {
+            "name": "HP - 17.3\" Laptop - AMD Ryzen 5 - 8GB Memory - 512GB SSD - Natural Silver",
+            "description": "This laptop from HP features a 17.3 inch display and is powered by an AMD Ryzen 5 processor. With 8GB of memory and a 512GB solid state drive, it offers speedy and reliable performance. The laptop also has a natural silver finish that adds a touch of style to your work setup.",
+            "features": [
+                "17.3 inch display",
+                "AMD Ryzen 5 processor",
+                "8GB memory",
+                "512GB solid state drive",
+                "Natural silver finish"
+            ],
+            "price": "$799.99"
+        },
+        {
+            "name": "Lenovo - 14\" ThinkPad T14s Gen 2 Laptop - Intel Core i5 - 8GB Memory - 256GB SSD - Storm Gray",
+            "description": "The Lenovo ThinkPad T14s Gen 2 is a powerful and reliable laptop featuring a 14 inch display and an Intel Core i5 processor. With 8GB of memory and a 256GB solid state drive, it offers speedy performance for demanding tasks. The storm gray finish adds a touch of style to your work setup.",
+            "features": [
+                "14 inch display",
+                "Intel Core i5 processor",
+                "8GB memory",
+                "256GB solid state drive",
+                "Storm gray finish"
+            ],
+            "price": "$1,199.99"
+        },
+        {
+            "name": "HP - ENVY x360 2-in-1 15.6\" Touch-Screen Laptop - AMD Ryzen 5 5625U - 8GB Memory - 256GB SSD - Nightfall Black",
+            "description": "The HP ENVY x360 2-in-1 laptop is a versatile and powerful device, featuring a 15.6 inch touch-screen display, an AMD Ryzen 5 5625U processor, and 8GB of memory. The 256GB solid state drive provides speedy storage for all your files. The nightfall black finish adds a touch of style to your work setup.",
+            "features": [
+                "15.6 inch touch-screen display",
+                "AMD Ryzen 5 5625U processor",
+                "8GB memory",
+                "256GB solid state drive",
+                "Nightfall black finish"
+            ],
+            "price": "$1,199.99"
+        },
+        {
+            "name": "Dell - XPS 13.3 Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Platinum Silver",
+            "description": "The Dell XPS 13.3 Touch-Screen Laptop is a powerful and versatile device featuring a 13.3 inch touch display, Intel Core i7 processor, and 16GB of memory. With a 512GB solid state drive, it offers speedy performance and storage for demanding tasks. The platinum silver finish adds a touch of style to your work setup.",
+            "features": [
+                "13.3 inch touch display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "512GB solid state drive",
+                "Platinum silver finish"
+            ],
+            "price": "$1,799.99"
+        },
+        {
+            "name": "Apple - MacBook Air - M1 Chip - 13.3\" Display - 8GB Memory - 256GB SSD - Gold",
+            "description": "The Apple MacBook Air with M1 chip is a compact and powerful laptop featuring a 13.3 inch display. With 8GB of memory and a 256GB solid state drive, it offers fast performance for demanding tasks. The gold finish adds a touch of elegance to your work setup.",
+            "features": [
+                "13.3 inch display",
+                "M1 chip",
+                "8GB memory",
+                "256GB solid state drive",
+                "Gold finish"
+            ],
+            "price": "$999.99"
+        },
+        {
+            "name": "Microsoft - Surface Laptop 4 - 13.5\" Touch-Screen - AMD Ryzen 7 4980U - 16GB Memory - 256GB SSD - Ice Blue",
+            "description": "The Microsoft Surface Laptop 4 is a high-performance laptop with a 13.5 inch touch screen and an AMD Ryzen 7 4980U processor. With 16GB of memory and a 256GB solid state drive, it offers smooth and speedy performance for demanding tasks. The ice blue finish adds a touch of style to your work setup.",
+            "features": [
+                "13.5 inch touch screen",
+                "AMD Ryzen 7 4980U processor",
+                "16GB memory",
+                "256GB solid state drive",
+                "Ice blue finish"
+            ],
+            "price": "$1,499.99"
+        },
+        {
+            "name": "Acer - Spin 3 2-in-1 14\" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB SSD - Steel Gray",
+            "description": "The Acer Spin 3 2-in-1 is a versatile laptop with a 14 inch touch screen display and an Intel Core i5 processor. It features 8GB of memory and a 256GB solid state drive for quick performance. The steel gray finish adds a touch of style to this laptop.",
+            "features": [
+                "14 inch touch screen display",
+                "Intel Core i5 processor",
+                "8GB memory",
+                "256GB solid state drive",
+                "Steel gray finish"
+            ],
+            "price": "$1,099.99"
+        },
+        {
+            "name": "HP - Spectre x360 2-in-1 13.3\" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Nightfall Black with Copper Luxe Accents",
+            "description": "The HP Spectre x360 is a versatile 2-in-1 laptop with a 13.3 inch touch-screen display. It's powered by an Intel Core i7 processor and comes with 16GB of memory and a 512GB solid state drive for fast and reliable performance. The nightfall black with copper luxe accents add a touch of sophistication to this laptop.",
+            "features": [
+                "13.3 inch touch-screen display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "512GB solid state drive",
+                "Nightfall black with copper luxe accents"
+            ],
+            "price": "$1,599.99"
+        },
+        {
+            "name": "Dell - Inspiron 14\" Touch-Screen Laptop - AMD Ryzen 7 4700U - 16GB Memory - 512GB SSD - Black",
+            "description": "The Dell Inspiron 14 is a touch-screen laptop featuring an AMD Ryzen 7 4700U processor, 16GB of memory and a 512GB solid state drive. The black finish adds a touch of style to your work setup.",
+            "features": [
+                "14 inch touch-screen display",
+                "AMD Ryzen 7 4700U processor",
+                "16GB memory",
+                "512GB solid state drive",
+                "Black finish"
+            ],
+            "price": "$1,299.99"
+        },
+        {
+            "name": "ASUS - ROG Zephyrus G15 15.6\" Gaming Laptop - AMD Ryzen 9 5900HX - 16GB Memory - 1TB SSD - Pine Green",
+            "description": "The ASUS ROG Zephyrus G15 is a powerful gaming laptop featuring a 15.6 inch display, an AMD Ryzen 9 5900HX processor, 16GB of memory and a 1TB solid state drive. The pine green finish adds a touch of style to your gaming setup.",
+            "features": [
+                "15.6 inch display",
+                "AMD Ryzen 9 5900HX processor",
+                "16GB memory",
+                "1TB solid state drive",
+                "Pine green finish"
+            ],
+            "price": "$1,999.99"
+        },
+        {
+            "name": "Apple - MacBook Pro - M1 Chip - 16\" Display - 16GB Memory - 512GB SSD - Space Gray",
+            "description": "The Apple MacBook Pro features a 16 inch display and the latest M1 chip, providing speedy performance and a sleek design. With 16GB of memory and a 512GB solid state drive, it offers ample storage and fast boot times. The space gray finish adds a touch of style to your work setup.",
+            "features": [
+                "16 inch display",
+                "M1 chip",
+                "16GB memory",
+                "512GB solid state drive",
+                "Space gray finish"
+            ],
+            "price": "$2,499.99"
+        },
+        {
+            "name": "HP - Pavilion x360 2-in-1 14\" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB SSD - Natural Silver",
+            "description": "The HP Pavilion x360 is a 2-in-1 laptop featuring a 14 inch touch-screen display, an Intel Core i5 processor, 8GB of memory and a 256GB solid state drive. The natural silver finish adds a touch of style to your work setup.",
+            "features": [
+                "14 inch touch-screen display",
+                "Intel Core i5 processor",
+                "8GB memory",
+                "256GB solid state drive",
+                "Natural silver finish"
+            ],
+            "price": "$799.99"
+        },
+        {
+            "name": "Dell - G5 Gaming Laptop 15.6\" - Intel Core i7 - 16GB Memory - NVIDIA GeForce RTX 2060 - 512GB SSD - Black",
+            "description": "The Dell G5 is a powerful gaming laptop featuring a 15.6 inch display, an Intel Core i7 processor, 16GB of memory, an NVIDIA GeForce RTX 2060 graphics card and a 512GB solid state drive. The black finish adds a touch of style to your gaming setup.",
+            "features": [
+                "15.6 inch display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "NVIDIA GeForce RTX 2060 graphics card",
+                "512GB solid state drive",
+                "Black finish"
+            ],
+            "price": "$1,499.99"
+        },
+        {
+            "name": "Microsoft - Surface Book 3 - 13.5\" Touch-Screen - Intel Core i7 - 16GB Memory - 256GB SSD - Sandstone",
+            "description": "The Microsoft Surface Book 3 is a powerful and versatile 2-in-1 laptop featuring a 13.5 inch touch-screen display, an Intel Core i7 processor, 16GB of memory and a 256GB solid state drive. The sandstone finish adds a touch of style to your work setup.",
+            "features": [
+                "13.5 inch touch-screen display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "256GB solid state drive",
+                "Sandstone finish"
+            ],
+            "price": "$1,999.99"
+        },
+        {
+            "name": "Acer - Swift 5 14\" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 1TB SSD - Jade Iron",
+            "description": "The Acer Swift 5 is a powerful laptop featuring a 14 inch touch-screen display, an Intel Core i7 processor, 16GB of memory and a 1TB solid state drive. The jade iron finish adds a touch of style to your work setup.",
+            "features": [
+                "14 inch touch-screen display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "1TB solid state drive",
+                "Jade iron finish"
+            ],
+            "price": "$1,499.99"
+        },
+        {
+            "name": "HP - Omen 17.3\" Gaming Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce RTX 2060 - 1TB SSD - Shadow Black",
+            "description": "The HP Omen is a powerful gaming laptop featuring a 17.3 inch display, an Intel Core i7 processor, 16GB of memory, an NVIDIA GeForce RTX 2060 graphics card and a 1TB solid state drive. The shadow black finish adds a touch of style to your gaming setup.",
+            "features": [
+                "17.3 inch display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "NVIDIA GeForce RTX 2060 graphics card",
+                "1TB solid state drive",
+                "Shadow black finish"
+            ],
+            "price": "$1,999.99"
+        },
+        {
+            "name": "Dell - Latitude 9420 2-in-1 14\" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Platinum Silver",
+            "description": "The Dell Latitude 9420 is a powerful and versatile 2-in-1 laptop featuring a 14 inch touch-screen display, an Intel Core i7 processor, 16GB of memory and a 512GB solid state drive. The platinum silver finish adds a touch of style to your work setup.",
+            "features": [
+                "14 inch touch-screen display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "512GB solid state drive",
+                "Platinum silver finish"
+            ],
+            "price": "$1,699.99"
+        },
+        {
+            "name": "ASUS - VivoBook Flip 14 2-in-1 14\" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 1TB SSD - Transparent Silver",
+            "description": "The ASUS VivoBook Flip 14 is a versatile 2-in-1 laptop featuring a 14 inch touch-screen display, an Intel Core i7 processor, 16GB of memory and a 1TB solid state drive. The transparent silver finish adds a touch of style to your work setup.",
+            "features": [
+                "14 inch touch-screen display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "1TB solid state drive",
+                "Transparent silver finish"
+            ],
+            "price": "$1,499.99"
+        },
+        {
+            "name": "Apple - MacBook Air - M1 Chip - 13.3\" Display - 8GB Memory - 512GB SSD - Gold",
+            "description": "The Apple MacBook Air features the latest M1 chip and a 13.3 inch display, providing speedy performance and a sleek design. With 8GB of memory and a 512GB solid state drive, it offers ample storage and fast boot times. The gold finish adds a touch of style to your work setup.",
+            "features": [
+                "13.3 inch display",
+                "M1 chip",
+                "8GB memory",
+                "512GB solid state drive",
+                "Gold finish"
+            ],
+            "price": "$1,299.99"
+        },
+        {
+            "name": "Microsoft - Surface Pro 7 - 12.3\" Touch-Screen - Intel Core i5 - 8GB Memory - 128GB SSD - Platinum",
+            "description": "The Microsoft Surface Pro 7 is a versatile 2-in-1 laptop featuring a 12.3 inch touch-screen display, an Intel Core i5 processor, 8GB of memory and a 128GB solid state drive. The platinum finish adds a touch of style to your work setup.",
+            "features": [
+                "12.3 inch touch-screen display",
+                "Intel Core i5 processor",
+                "8GB memory",
+                "128GB solid state drive",
+                "Platinum finish"
+            ],
+            "price": "$999.99"
+        },
+        {
+            "name": "Acer - Predator Triton 300 15.6\" Gaming Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce RTX 2070 - 512GB SSD - Black",
+            "description": "The Acer Predator Triton 300 is a high-performance gaming laptop with a 15.6 inch display and an Intel Core i7 processor. With 16GB of memory and a NVIDIA GeForce RTX 2070 graphics card, it offers smooth and fast gaming experiences. The 512GB solid state drive provides ample storage, and the black finish adds a sleek look.",
+            "features": [
+                "15.6 inch display",
+                "Intel Core i7 processor",
+                "16GB memory",
+                "NVIDIA GeForce RTX 2070 graphics card",
+                "512GB solid state drive",
+                "Black finish"
+            ],
+            "price": "$1,499.99"
+        },
+        {
+            "name": "HP - Pavilion x360 14\" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB SSD - Natural Silver",
+            "description": "The HP Pavilion x360 is a versatile 2-in-1 laptop with a 14 inch touch screen display and an Intel Core i5 processor. With 8GB of memory and a 256GB solid state drive, it offers reliable performance for everyday tasks. The natural silver finish adds a touch of sophistication.",
+            "features": [
+                "14 inch touch screen display",
+                "Intel Core i5 processor",
+                "8GB memory",
+                "256GB solid state drive",
+                "Natural silver finish"
+            ],
+            "price": "$799.99"
+        },
+        {
+            "name": "Dell - Inspiron 15 3000 Series 15.6\" Laptop - Intel Celeron N3060 - 4GB Memory - 500GB Hard Drive - Black",
+            "description": "The Dell Inspiron 15 3000 Series is a budget-friendly laptop with a 15.6 inch display and an Intel Celeron N3060 processor. With 4GB of memory and a 500GB hard drive, it offers basic computing capabilities for everyday use. The black finish adds a touch of professionalism.",
+            "features": [
+                "15.6 inch display",
+                "Intel Celeron N3060 processor",
+                "4GB memory",
+                "500GB hard drive",
+                "Black finish"
+            ],
+            "price": "$349.99"
+        },
+        {
+            "name": "Microsoft - Surface Laptop Go - 12.4\" Touch-Screen - Intel Core i5 - 8GB Memory - 128GB SSD - Platinum",
+            "description": "The Microsoft Surface Laptop Go is a compact and portable laptop with a 12.4 inch touch screen display and an Intel Core i5 processor. With 8GB of memory and a 128GB solid state drive, it offers smooth and fast performance for everyday tasks. The platinum finish adds a touch of elegance.",
+            "features": [
+                "12.4 inch touch screen display",
+                "Intel Core i5 processor",
+                "8GB memory",
+                "128GB solid state drive",
+                "Platinum finish"
+            ],
+            "price": "$799.99"
+        },
+        {
+            "name": "Acer - Aspire 5 Slim Laptop 15.6\" - Intel Celeron N4020 - 4GB Memory - 64GB eMMC - Obsidian Black",
+            "description": "The Acer Aspire 5 Slim is a budget-friendly laptop with a 15.6 inch display and an Intel Celeron N4020 processor. With 4GB of memory and a 64GB eMMC, it offers basic computing capabilities for everyday use. The obsidian black finish adds a touch of sophistication.",
+            "features": [
+                "15.6 inch display",
+                "Intel Celeron N4020 processor",
+                "4GB memory",
+                "64GB eMMC",
+                "Obsidian black finish"
+            ],
+            "price": "$269.99"
+        },
+        {
+            "name": "HP - Stream 14\" Laptop - Intel Celeron N4000 - 4GB Memory - 64GB eMMC - Aqua Blue",
+            "description": "The HP Stream 14 is a compact and affordable laptop with a 14 inch display and an Intel Celeron N4000 processor. With 4GB of memory and a 64GB eMMC, it offers basic computing capabilities for everyday use. The aqua blue finish adds a touch of fun.",
+            "features": [
+                "14 inch display",
+                "Intel Celeron N4000 processor",
+                "4GB memory",
+                "64GB eMMC",
+                "Aqua blue finish"
+            ],
+            "price": "$219.99"
+        }
+    ]
+}

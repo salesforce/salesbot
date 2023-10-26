@@ -1,0 +1,236 @@
+{
+  "vacuum-cleaners": [
+    {
+      "name": "Dyson Cyclone V10 Absolute",
+      "description": "Big machine suction power. But with cord-free versatility. The Dyson Cyclone V10 Absolute cord-free vacuum has a bigger bin for the big cleans. The torque drive cleaner head removes more dust from carpets. The soft roller cleaner head removes fine dust and large debris from hard floors. The Dyson Cyclone V10 Absolute cord-free vacuum quickly transforms to a handheld for quick clean ups, spot cleaning and cleaning difficult places.",
+      "features": [
+        "Cordless design for increased mobility",
+        "Powerful digital motor",
+        "High-efficiency HEPA filtration system",
+        "Lightweight and easy to maneuver",
+        "Bagless design for easy maintenance",
+        "Indicator lights for charging",
+        "Surface type: General Surfaces",
+        "Type: Stick"
+      ],
+      "price": "$799.99"
+    },
+    {
+      "name": "Shark Navigator Lift-Away Professional",
+      "description": "The Shark Navigator Lift-Away Professional is a versatile and powerful upright vacuum cleaner that can be easily converted into a portable canister vacuum.",
+      "features": [
+        "Lift-Away technology for easy conversion",
+        "HEPA filtration system",
+        "Brushroll shutoff for bare floor cleaning",
+        "Large dustbin capacity"
+      ],
+      "price": "$199.99"
+    },
+    {
+      "name": "iRobot Roomba 675",
+      "description": "The iRobot Roomba 675 is a budget-friendly robot vacuum cleaner that is equipped with a powerful motor and intelligent navigation.",
+      "features": [
+        "Intelligent navigation and mapping",
+        "Powerful motor for efficient cleaning",
+        "Compatible with the iRobot HOME app",
+        "Automatic recharge and resume"
+      ],
+      "price": "$329.99"
+    },
+    {
+      "name": "Neato Botvac D7 Connected",
+      "description": "The Neato Botvac D7 Connected is a high-end robot vacuum cleaner that features advanced laser mapping and navigation technology.",
+      "features": [
+        "Laser mapping and navigation technology",
+        "Compatible with Amazon Alexa and Google Assistant",
+        "Large dustbin capacity",
+        "High-efficiency filtration system"
+      ],
+      "price": "$499.99"
+    },
+    {
+      "name": "Eureka PowerSpeed Lightweight Vacuum Cleaner",
+      "description": "The Eureka PowerSpeed Lightweight Vacuum Cleaner is a budget-friendly upright vacuum cleaner that is lightweight and easy to maneuver.",
+      "features": [
+        "Lightweight design",
+        "5 height adjustment settings",
+        "Large dustbin capacity",
+        "Multi-surface cleaning capability"
+      ],
+      "price": "$79.99"
+    },
+    {
+      "name": "Miele Compact C1 Turbo Team",
+      "description": "The Miele Compact C1 Turbo Team is a canister vacuum cleaner that features a powerful motor and a high-efficiency filtration system.",
+      "features": [
+        "Powerful motor",
+        "High-efficiency filtration system",
+        "Integrated tools for cleaning crevices and upholstery",
+        "Compact design for easy storage"
+      ],
+      "price": "$349.99"
+    },
+    {
+      "name": "Bissell PowerEdge Pet Hardwood Floor Corded Vacuum",
+      "description": "The Bissell PowerEdge Pet Hardwood Floor Corded Vacuum is a budget-friendly vacuum cleaner that is specifically designed for cleaning hardwood floors.",
+      "features": [
+        "V-shaped design for efficient cleaning of edges and corners",
+        "Compact size for easy maneuverability",
+        "Lightweight design",
+        "Cyclonic cleaning technology for powerful suction"
+      ],
+      "price": "$79.99"
+    },
+    {
+      "name": "Black+Decker Flex Vacuum",
+      "description": "The Black+Decker Flex Vacuum is a cordless stick vacuum cleaner that features a powerful motor and a high-efficiency filtration system.",
+      "features": [
+        "Cordless design for increased mobility",
+        "Powerful motor",
+        "High-efficiency filtration system",
+        "Lightweight and easy to maneuver"
+      ],
+      "price": "$199.99"
+    },
+    {
+      "name": "Hoover WindTunnel 2 Whole House Rewind Vacuum",
+      "description": "The Hoover WindTunnel 2 Whole House Rewind Vacuum is a powerful and versatile upright vacuum cleaner that features a high-capacity dustbin and a no-scuff bumper.",
+      "features": [
+        "WindTunnel 2 Technology for powerful suction",
+        "High-capacity dustbin",
+        "No-scuff bumper to protect furniture and walls",
+        "Automatic rewind cord feature"
+      ],
+      "price": "$149.99"
+    },
+    {
+      "name": "Oreck Commercial XL2100RHS Upright Vacuum Cleaner",
+      "description": "The Oreck Commercial XL2100RHS Upright Vacuum Cleaner is a powerful and durable vacuum cleaner that is specifically designed for commercial use.",
+      "features": [
+        "Powerful motor for efficient cleaning",
+        "Durable construction for long-lasting use",
+        "Easy-empty dustbin for convenience",
+        "Adjustable height for different floor types"
+      ],
+      "price": "$299.99"
+    },
+    {
+      "name": "Electrolux UltraFlex Canister Vacuum",
+      "description": "The Electrolux UltraFlex Canister Vacuum is a versatile and powerful canister vacuum cleaner that features a high-efficiency filtration system and a flexible hose.",
+      "features": [
+        "High-efficiency filtration system",
+        "Flexible hose for increased mobility",
+        "Integrated tools for cleaning crevices and upholstery",
+        "Compact design for easy storage"
+      ],
+      "price": "$399.99"
+    },
+    {
+      "name": "Dirt Devil Scorpion Quick Flip Corded Bagless Handheld Vacuum",
+      "description": "The Dirt Devil Scorpion Quick Flip Corded Bagless Handheld Vacuum is a budget-friendly handheld vacuum cleaner that is lightweight and easy to use.",
+      "features": [
+        "Bagless design for easy maintenance",
+        "Lightweight design",
+        "Quick Flip crevice tool for cleaning tight spaces",
+        "Powerful suction for efficient cleaning"
+      ],
+      "price": "$49.99"
+    },
+    {
+      "name": "Kirby Sentria II Vacuum Cleaner",
+      "description": "The Kirby Sentria II Vacuum Cleaner is a high-end upright vacuum cleaner that features a powerful motor and a HEPA filtration system.",
+      "features": [
+        "Powerful motor for efficient cleaning",
+        "HEPA filtration system",
+        "Adjustable height for different floor types",
+        "Integrated tools for cleaning crevices and upholstery"
+      ],
+      "price": "$799.99"
+    },
+    {
+      "name": "Panasonic JetForce Canister Vacuum",
+      "description": "The Panasonic JetForce Canister Vacuum is a powerful and versatile canister vacuum cleaner that features a high-efficiency filtration system and a flexible hose.",
+      "features": [
+        "High-efficiency filtration system",
+        "Flexible hose for increased mobility",
+        "Integrated tools for cleaning crevices and upholstery",
+        "Powerful motor for efficient cleaning"
+      ],
+      "price": "$449.99"
+    },
+    {
+      "name": "Vacmaster Wet/Dry Vacuum",
+      "description": "The Vacmaster Wet/Dry Vacuum is a versatile and powerful vacuum cleaner that can be used for both wet and dry cleaning.",
+      "features": [
+        "Powerful motor for efficient cleaning",
+        "Integrated blower feature",
+        "Large dustbin capacity",
+        "Wet and dry cleaning capability"
+      ],
+      "price": "$99.99"
+    },
+    {
+      "name": "Eufy RoboVac 30C MAX",
+      "description": "The Eufy RoboVac 30C MAX is a budget-friendly robot vacuum cleaner that is equipped with a powerful motor and intelligent navigation.",
+      "features": [
+        "Intelligent navigation and mapping",
+        "Powerful motor for efficient cleaning",
+        "Compatible with Amazon Alexa and Google Assistant",
+        "Automatic recharge and resume"
+      ],
+      "price": "$259.99"
+    },
+    {
+      "name": "Bissell PowerGlide Pet Vacuum",
+      "description": "Every pet parent knows that pets make messes. That's why SuctionChannel Technology provides edge-to-edge suction to remove embedded pet hair and deep-down dirt. Plus, swivel steering helps maneuver around furniture and obstacles in your home easily. Pets don't discriminate where they make their messes, but thanks to the On/Off Triple Action Brush Roll feature, this vacuum has two bristle types for carpet and scatter-free hard surface cleaning. Use the stretch hose and tools to clean above-the-floor spaces such as furniture, stairs, curtains, and pet beds. And don't worry, the Pet TurboEraser Tool with Tangle-Free Technology is designed so that hair is less likely to wrap around the brush roll. When the job is complete, an Easy Empty Dirt Bin makes for an easy, mess-free cleanup. All of this makes the BISSELL PowerGlide Pet Upright Vacuum a super-powerful solution for any pet parent.",
+      "features": [
+        "Brushroll On/Off",
+        "Built-in Tools Storage",
+        "Crevice Tool",
+        "Dual Edge Cleaning",
+        "Edge Cleaning",
+        "Pet Hair",
+        "Permanent Attachment Hose",
+        "Quick Draw Tools",
+        "Wands",
+        "Upholstery Brush",
+        "Multi-stage filtration system"
+      ],
+      "price": "$219.99"
+    },
+    {
+      "name": "Sanitaire SC3683A Commercial Upright Vacuum Cleaner",
+      "description": "This compact Sanitaire commercial vacuum is a great option for cleaning bare floor and flat carpet. The lightweight design, built off of the Mighty Mite style, makes it easily portable and maneuverable. An included carrying strap allows the user to move the vacuum from room to room with ease, or hold the vacuum while cleaning stairs. This vacuum cleaner is especially useful for those needing a compact or lightweight commercial vacuum. Unlike traditional upright vacuums this commercial canister allows the operator to clean under furniture and other areas where most uprights can't fit.  Once finished the 20' power cord neatly wraps up underneath the vacuum for storage.",
+      "features": [
+        "The weight of the vacuum only is 10 pounds",
+        "Easy change bag",
+        "20' power cord that wraps up underneath",
+        "2 year commercial warranty",
+        "Optional HEPA filtration"
+      ],
+      "price": "$349.99"
+    },
+    {
+      "name": "Hoover T-Series WindTunnel Rewind Plus Upright Vacuum Cleaner",
+      "description": "The Hoover T-Series WindTunnel Rewind Plus Vacuum Cleaner is a powerful and versatile upright vacuum cleaner that features a high-capacity dustbin and a no-scuff bumper.",
+      "features": [
+        "WindTunnel technology for powerful suction",
+        "High-capacity dustbin",
+        "No-scuff bumper to protect furniture and walls",
+        "Automatic rewind cord feature"
+      ],
+      "price": "$189.99"
+    },
+    {
+      "name": "Dyson Ball Animal 2 Total Clean Vacuum Cleaner",
+      "description": "Strongest suction of any vacuum. Suction tested to ASTM F558 at the cleaner head, dust-loaded against upright market. Dyson technology helps create a cleaner, healthier home - Our vacuums and purifiers are scientifically proven to capture particles.",
+      "features": [
+        "Bagless",
+        "For Pets",
+        "HEPA filtration system",
+        "Surface type: hard floor, carpet"
+      ],
+      "price": "$849.99"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+    "coffee-makers": [
+        {
+            "name": "Bonavita BV1900TS 8-Cup Carafe Coffee Brewer, Stainless Steel",
+            "description": "This is a simple and efficient Espresso Machine coffee maker made of stainless steel, that features an automatic Shut-Off and a pre-infusion mode that soaks the ground coffee before brewing, ensuring an even extraction.",
+            "features": [
+                "One-touch brew operation with auto-off , Dishwasher safe; All plastic is BPA-free",
+                "Powerful and precise 1500-watt heater maintains optimal brewing temperature of 195 Degree-205 DegreeF (91 Degree-96 DegreeC)",
+                "Optional pre-infusion mode wets freshly roasted ground coffee to allow degassing before brewing",
+                "Flat-bottomed filter basket and larger showerhead allow for even better saturation and uniform extraction.Durable stainless steel lined thermal carafe"
+            ],
+            "price": "$269.99"
+        },
+        {
+            "name": "Cuisinart DCC-3200P1 Perfectemp Coffee Maker, 14 Cup Progammable with Glass Carafe",
+            "description": "This coffee maker is a 14-cup programmable machine that comes with a glass carafe and a hot water dispenser. It features a large backlit LCD display, a brew strength control that lets you choose between regular or bold coffee, and an adjustable auto-shutoff.",
+            "features": [
+                "14-Cup glass carafe with a stainless steel handle",
+                "Fully automatic with 24-hour programmability, self-clean, 1-4 cup setting, and auto shutoff (0-4 hours)",
+                "Brew strength control - select BOLD for stronger coffee flavor",
+                "State-of-the-art technology to ensure hotter coffee without sacrificing flavor or quality"
+            ],
+            "price": "$99.95"
+        },
+        {
+            "name": "Breville BDC650BSS Grind Control Coffee Maker",
+            "description": "The Breville BDC650BSS Grind Control Coffee Maker is a programmable coffee maker with an integrated conical burr grinder. It features 12 strength settings, a backlit LCD display, and a hot water dispenser.",
+            "features": [
+                "Integrated conical burr grinder with 12 strength settings",
+                "Programmable with auto start, auto shutoff, and auto grind",
+                "Backlit LCD display with grind size and grind time dials",
+                "Hot water dispenser for tea and hot cocoa"
+            ],
+            "price": "$499.99"
+        },
+        {
+            "name": "Technivorm Moccamaster 59162 KB Coffee Maker",
+            "description": "The Technivorm Moccamaster 59162 KB Coffee Maker is a 10-cup coffee maker that features a stainless steel construction and a copper boiling element for efficient and consistent heating. It has a brew-through lid and a hot plate to keep your coffee warm.",
+            "features": [
+                "10-cup coffee maker with stainless steel construction",
+                "Copper boiling element for efficient and consistent heating",
+                "Brew-through lid and hot plate to keep your coffee warm",
+                "Designed and manufactured in the Netherlands with a 5-year warranty"
+            ],
+            "price": "$319.00"
+        },
+        {
+            "name": "Chemex Classic Series, Pour-Over Glass Coffeemaker",
+            "description": "The Chemex Classic Series is a pour-over glass coffee maker that is made of non-porous Borosilicate glass. It features a wood collar with leather tie and can make up to 8 cups of coffee.",
+            "features": [
+                "Non-porous Borosilicate glass construction",
+                "Wood collar with leather tie",
+                "Makes up to 8 cups of coffee",
+                "Handcrafted in the USA"
+            ],
+            "price": "$42.00"
+        },
+        {
+            "name": "OXO BREW 9 Cup Coffee Maker",
+            "description": "The OXO BREW 9 Cup Coffee Maker is a programmable, automatic drip coffee maker that can make up to 9 cups of coffee. It features a user-friendly interface with an LED display, and has a built-in grinder for fresh coffee.",
+            "features": [
+                "Programmable, automatic drip coffee maker",
+                "Makes up to 9 cups of coffee",
+                "User-friendly interface with an LED display",
+                "Built-in grinder for fresh coffee"
+            ],
+            "price": "$299.99"
+        },
+        {
+            "name": "Black+Decker 12-Cup Programmable Coffee Maker",
+            "description": "The Black+Decker 12-Cup Programmable Coffee Maker is an affordable and user-friendly automatic drip coffee maker that can make up to 12 cups of coffee. It features a 2-hour automatic shut-off and a non-stick hot plate.",
+            "features": [
+                "Affordable and user-friendly automatic drip coffee maker",
+                "Makes up to 12 cups of coffee",
+                "2-hour automatic shut-off",
+                "Non-stick hot plate"
+            ],
+            "price": "$29.99"
+        },
+        {
+            "name": "BUNN Speed Brew Elite Coffee Maker",
+            "description": "The BUNN Speed Brew Elite Coffee Maker is a fast and efficient drip coffee maker that can make up to 10 cups of coffee in just 3 minutes. It features a stainless steel construction and a large water tank.",
+            "features": [
+                "Fast and efficient drip coffee maker",
+                "Makes up to 10 cups of coffee in just 3 minutes",
+                "Stainless steel construction",
+                "Large water tank"
+            ],
+            "price": "$149.99"
+        },
+        {
+            "name": "Aeropress Coffee and Espresso Maker",
+            "description": "The Aeropress Coffee and Espresso Maker is a manual coffee maker that uses a unique brewing method to produce smooth and delicious coffee. It is portable and easy to use, making it a great choice for coffee lovers on the go.",
+            "features": [
+                "Manual coffee maker with a unique brewing method",
+                "Produces smooth and delicious coffee",
+                "Portable and easy to use",
+                "Great choice for coffee lovers on the go"
+            ],
+            "price": "$29.95"
+        },
+        {
+            "name": "Keurig K-Elite Single Serve Coffee Maker",
+            "description": "The Keurig K-Elite Single Serve Coffee Maker is a single serve coffee maker that uses K-Cups to make a quick and easy cup of coffee. It features a strong brew setting and iced coffee capability.",
+            "features": [
+                "Single serve coffee maker that uses K-Cups",
+                "Quick and easy to use",
+                "Strong brew setting",
+                "Iced coffee capability"
+            ],
+            "price": "$139.99"
+        },
+        {
+            "name": "Mr. Coffee 12-Cup Switch Coffee Maker",
+            "description": "The Mr. Coffee 12-Cup Switch Coffee Maker is a simple and affordable automatic drip coffee maker that can make up to 12 cups of coffee. It features a pause and serve function and a removable filter basket.",
+            "features": [
+                "Simple and affordable automatic drip coffee maker",
+                "Makes up to 12 cups of coffee",
+                "Pause and serve function",
+                "Removable filter basket"
+            ],
+            "price": "$19.99"
+        },
+        {
+            "name": "DeLonghi EC155M Espresso Machine",
+            "description": "The DeLonghi EC155M Espresso Machine is a semi-automatic espresso machine that can make both espresso and cappuccino. It features a 15 bar pressure pump and a manual frother.",
+            "features": [
+                "Semi-automatic espresso machine that can make both espresso and cappuccino",
+                "15 bar pressure pump",
+                "Manual frother",
+                "Stainless steel boiler"
+            ],
+            "price": "$99.95"
+        },
+        {
+            "name": "Ninja Hot and Cold Brewed System",
+            "description": "The Ninja Hot and Cold Brewed System is a multi-functional coffee maker that can make hot and cold coffee, tea, and iced coffee. It features a built-in frother and a 6-cup carafe.",
+            "features": [
+                "Multi-functional coffee maker that can make hot and cold coffee, tea, and iced coffee",
+                "Built-in frother",
+                "6-cup carafe",
+                "Auto-iQ technology for easy brewing"
+            ],
+            "price": "$199.99"
+        },
+        {
+            "name": "Zojirushi EC-DAC50 Zutto 5-Cup Drip Coffee Maker",
+            "description": "The Zojirushi EC-DAC50 Zutto 5-Cup Drip Coffee Maker is a compact and efficient drip coffee maker that can make up to 5 cups of coffee. It features a removable water tank and a keep-warm function.",
+            "features": [
+                "Compact and efficient drip coffee maker",
+                "Makes up to 5 cups of coffee",
+                "Removable water tank",
+                "Keep-warm function"
+            ],
+            "price": "$79.99"
+        },
+        {
+            "name": "Sboly Single Serve Coffee Maker",
+            "description": "The Sboly Single Serve Coffee Maker is a single serve coffee maker that uses both K-Cups and ground coffee. It features a fast brewing time and a compact design.",
+            "features": [
+                "Single serve coffee maker that uses both K-Cups and ground coffee",
+                "Fast brewing time",
+                "Compact design",
+                "Self-cleaning function"
+            ],
+            "price": "$59.99"
+        },
+        {
+            "name": "Behmor Connected Coffee Maker",
+            "description": "The Behmor Connected Coffee Maker is a smart coffee maker that can be controlled from your smartphone. It features a customizable brew temperature and pre-soak time, and can make up to 8 cups of coffee.",
+            "features": [
+                "Smart coffee maker that can be controlled from your smartphone",
+                "Customizable brew temperature and pre-soak time",
+                "Makes up to 8 cups of coffee",
+                "Compatible with Alexa and Google Assistant"
+            ],
+            "price": "$299.99"
+        },
+        {
+            "name": "Oster 12-Cup Programmable Coffee Maker",
+            "description": "The Oster 12-Cup Programmable Coffee Maker is a simple and affordable automatic drip coffee maker that can make up to 12 cups of coffee. It features a 2-hour automatic shut-off and a non-stick hot plate.",
+            "features": [
+                "Simple and affordable automatic drip coffee maker",
+                "Makes up to 12 cups of coffee",
+                "2-hour automatic shut-off",
+                "Non-stick hot plate"
+            ],
+            "price": "$39.99"
+        },
+        {
+            "name": "Curtis G4 Gravity Brew System",
+            "description": "The Curtis G4 Gravity Brew System is a commercial-grade coffee maker that uses a gravity-fed brewing system to produce high-quality coffee. It features a stainless steel construction and can make up to 12 cups of coffee.",
+            "features": [
+                "Commercial-grade coffee maker that uses a gravity-fed brewing system",
+                "Produces high-quality coffee",
+                "Stainless steel construction",
+                "Makes up to 12 cups of coffee",
+                "Precision temperature control"
+            ],
+            "price": "$2175"
+        },
+        {
+            "name": "Breville Bambino Plus Automatic Espresso Machine, Black Truffle",
+            "description": "The Bambino Plus doesn't compromise on the 4 key elements of cafe quality coffee. Delivering barista quality performance using a 54mm portafilter with 19 grams for full flavour and automatic milk texturing. With a 3 second heat up time and precise espresso extraction, you go from bean to cup, faster than ever before. Just like your local cafe.",
+            "features": [
+                "Automatic Microfoam Milk Texturing. The automatic steam wand allows you to adjust the milk temperature and texture to suit your taste. Delivering barista quality micro-foam that enhances the flavour of the coffee and is essential for creating latte art.",
+                "Faster heat up time. Innovative ThermoJet heating system achieves the optimum extraction temperature in 3 seconds. Ready to make your best coffee without the wait.",
+                "19 grams dose for full flavour. Achieve a consistent and balanced espresso using the right amount of ground coffee. The 54mm porta-filter with 19 grams is the key for full flavour and cafe quality coffee.",
+                "Low pressure pre-infusion. Low pressure pre-infusion gradually increases pressure at the start and helps ensure all the flavours are drawn out evenly during the extraction for a balanced tasting cup.",
+                "Precise espresso extraction. Digital temperature control (PID) delivers water at precisely the right temperature, ensuring optimal espresso extraction.",
+                "Water Tank Capacity: 1.9 L (64 fl oz)",
+                "Heat Up Time: 3 seconds",
+                "Programmable shot volume, adjustable milk froth texture (3 levels), adjustable milk temperature (3 levels), steam button"
+            ],
+            "price": "$499.99"
+        }
+    ]
+}

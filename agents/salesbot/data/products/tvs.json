@@ -1,0 +1,320 @@
+{
+    "tv": [
+        {
+            "name": "Samsung 75\" Q900T 8K Ultra HD HDR Smart QLED TV",
+            "description": "8K Infinity Screen - Enjoy edge-to-edge viewing. Black TV bezels are nearly invisible so you can enjoy more of the picture. 8K Resolution - Feel the power of 33 million pixels delivering the ultimate clarity and picture resolution that is four times the resolution of 4K. Object Tracking Sound+ - 6-speaker sound system on the TV creates a realistic cinematic sound experience that tracks the motion in every scene, giving you 3D sound that puts you right in the middle of the action. Direct Full Array 32X - The dynamic tone mapping of HDR 10+ allows you to enjoy rich accurate colours with deep contrast and crisp details. Choose from your favourite voice assistants like Bixby, Amazon Alexa, Google Assistant to Multiple Voice Assistant.",
+            "features": [
+                "Samsung 75 Inches",
+                "QLED 8K Technology",
+                "240 Hz refresh rate",
+                "Connectivity with Bluetooth, RF, Wi-Fi, USB, HDMI, Ethernet (LAN), Digital Audio Out x 1 (Optical)",
+                "Supported internet services: Netflix, Google TV, Amazon Instant Video, YouTube, Browser"
+            ],
+            "price": "$9,999.99"
+        },
+        {
+            "name": "Samsung - 55\" Class S95B OLED 4K Smart Tizen TV",
+            "description": "Samsung OLED TV changes the game again with 8.3 million self lit pixels and ultra powerful 4K AI Neural Processing, all for a picture so real, it’s surreal. Add on Dolby Atmos ® sound built in, the latest Smart TV apps, and a LaserSlim design and get a viewing experience that’s intensely cinematic.",
+            "features": [
+                "Samsung OLED Technology",
+                "Neural Quantum Processor with 4K Upscaling",
+                "Quantum HDR OLED",
+                "Smart Calibration"
+            ],
+            "price": "$1,699.99"
+        },
+        {
+            "name": "Samsung - 65\" Class Q800T Series QLED 8K UHD Smart Tizen TV",
+            "description": "Samsung QLED 8K TV delivers pure color and contrast in every pixel, with 8K AI Upscaling, Quantum Processor 8K and Quantum HDR 32x for a picture that's incredibly vivid and lifelike. With built-in Smart TV apps, Bixby, Alexa and Google Assistant, and a sleek and slim design, it's the ultimate viewing experience.",
+            "features": [
+                "QLED 8K Technology",
+                "Quantum Processor 8K with AI Upscaling",
+                "Quantum HDR 32x",
+                "Built-in Smart TV apps",
+                "Bixby, Alexa, and Google Assistant support"
+            ],
+            "price": "$2,999.99"
+        },
+        {
+            "name": "Samsung - 65\" Class QN900A Series QLED 8K UHD Smart Tizen TV",
+            "description": "Get the ultimate viewing experience with the Samsung 65 inch QN900A Series QLED 8K UHD Smart Tizen TV. With 8K resolution and Quantum HDR technology, you'll get stunning picture quality. And with the Tizen operating system, you'll have access to all of your favorite streaming content.",
+            "features": [
+                "8K resolution for stunning picture quality",
+                "Quantum HDR technology for vivid colors",
+                "Tizen operating system for access to streaming content",
+                "Smart Calibration for optimized picture quality"
+            ],
+            "price": "$3,499.99"
+        },
+        {
+            "name": "LG - 55\" Class NanoCell 99 Series 4K Smart UHD TV",
+            "description": "Experience a new level of lifelike picture with the LG NanoCell 99 Series 4K Smart UHD TV. With nanoscale particles that enhance color accuracy and a powerful 4K Processor X1, you'll get stunning picture quality. And with built-in Alexa and Apple AirPlay 2, you can easily control your TV with your voice.",
+            "features": [
+                "NanoCell Technology for enhanced color accuracy",
+                "4K Processor X1 for powerful performance",
+                "Built-in Alexa and Apple AirPlay 2",
+                "Real Game Enhancer"
+            ],
+            "price": "$1,099.99"
+        },
+        {
+            "name": "LG - 65\" Class UM6900PUA 4K UHD Smart LED TV",
+            "description": "Experience a new level of lifelike picture with the LG 65 inch UM6900PUA 4K UHD Smart LED TV. With the 4K Active HDR technology and True Color Accuracy, you'll get stunning picture quality. And with built-in Alexa compatibility, you can easily control your TV with your voice.",
+            "features": [
+                "4K Active HDR technology for enhanced picture quality",
+                "True Color Accuracy for vivid colors",
+                "Built-in Alexa compatibility for easy voice control",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$749.99"
+        },
+        {
+            "name": "LG - 65\" Class OLED Z1 Series 4K UHD Smart OLED TV",
+            "description": "Experience a new level of lifelike picture with the LG 65 inch OLED Z1 Series 4K UHD Smart OLED TV. With the OLED technology and 4K HDR processor, you'll get stunning picture quality. And with built-in Alexa and Apple AirPlay 2 compatibility, you can easily control your TV with your voice.",
+            "features": [
+                "OLED technology for enhanced color accuracy",
+                "4K HDR processor for powerful performance",
+                "Built-in Alexa and Apple AirPlay 2 compatibility for easy voice control",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$2,999.99"
+        },
+        {
+            "name": "TCL - 55\" Class 5-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV",
+            "description": "The TCL 55 inch 5-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV delivers stunning picture quality with Dolby Vision HDR and QLED color technology. With the built-in Roku operating system, you'll have access to all of your favorite streaming content. And with Alexa and Google Assistant compatibility, you can easily control your TV with your voice.",
+            "features": [
+                "Dolby Vision HDR for enhanced picture quality",
+                "QLED color technology for vivid colors",
+                "Built-in Roku operating system for access to streaming content",
+                "Alexa and Google Assistant compatibility for voice control"
+            ],
+            "price": "$449.99"
+        },
+        {
+            "name": "TCL - 55\" Class 4-Series 4K UHD Roku Smart TV",
+            "description": "Experience a new level of lifelike picture with the TCL 55 inch 4-Series 4K UHD Roku Smart TV. With the 4K UHD resolution and HDR technology, you'll get stunning picture quality. And with the built-in Roku operating system, you'll have access to all of your favorite streaming content.",
+            "features": [
+                "4K UHD resolution for stunning picture quality",
+                "HDR technology for vivid colors",
+                "Built-in Roku operating system for access to streaming content",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$349.99"
+        },
+        {
+            "name": "TCL - 75\" Class 6-Series 4K UHD Mini-LED QLED Roku Smart TV",
+            "description": "Get the ultimate viewing experience with the TCL 75 inch 6-Series 4K UHD Mini-LED QLED Roku Smart TV. With the Mini-LED technology and QLED color, you'll get stunning picture quality. And with the built-in Roku operating system, you'll have access to all of your favorite streaming content.",
+            "features": [
+                "Mini-LED technology for enhanced picture quality",
+                "QLED color for vivid colors",
+                "Built-in Roku operating system for access to streaming content",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$1,499.99"
+        },
+        {
+            "name": "TCL - 75\" Class 6-Series Mini-LED QLED 4K UHD Smart TV",
+            "description": "Get the ultimate viewing experience with the TCL 75 inch 6-Series Mini-LED QLED 4K UHD Smart TV. With the Mini-LED technology and QLED color, you'll get stunning picture quality. And with the built-in Alexa and Google Assistant compatibility, you can easily control your TV with your voice.",
+            "features": [
+                "Mini-LED technology for enhanced picture quality",
+                "QLED color for vivid colors",
+                "Built-in Alexa and Google Assistant compatibility for easy voice control",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$1,799.99"
+        },
+        {
+            "name": "TCL 40\" Class 3-Series Full HD 1080p LED Smart Roku TV - 40S355-CA",
+            "description": "Stunning Full HD: Stunning Full HD resolution offers enhanced clarity and detail for all your favorite entertainment. Simple, customizable home screen: Your favorite broadcast TV, streaming channels, gaming console and other devices are front-and-center, so you can spend your time relaxing – not scrolling. Stream what you love: Enjoy free TV, live news, sports, movies, and more. Endless free entertainment: Access the best selection of free entertainment with 250+ live TV channels, award-winning Roku Originals, in-season shows, hit movies, kids’ TV and more. Live TV Channel Guide with 250+ free channels: Use the convenient live TV guide to surf broadcast TV and live streaming channels in one place. Cord cutting made easy: Cord cutters can access free, over-the-air HD content thanks to the advanced digital TV tuner with live channel guide or watch live TV from popular cable-replacement services like Sling, Hulu, fuboTV and more.",
+            "features": [
+                "Screen size: 40 Inches",
+                "Supported internet services: Netflix, Disney Plus, Amazon Instant Video, Apple TV, YouTube",
+                "Display technology: LED",
+                "Product Dimensions: 7.4D x 90.4W x 51.8H Centimetres",
+                "Resolution: 1080p",
+                "Refresh rate: 60Hz",
+                "Power Cable, Remote Control, 2x Remote Control Batteries, Stand, Quick Start Guide, User Guide included"
+            ],
+            "price": "$279.99"
+        },
+        {
+            "name": "TCL 32\" Class 3-Series Full HD 1080p LED Smart Roku TV - 40S355-CA",
+            "description": "Stunning Full HD: Stunning Full HD resolution offers enhanced clarity and detail for all your favorite entertainment. Simple, customizable home screen: Your favorite broadcast TV, streaming channels, gaming console and other devices are front-and-center, so you can spend your time relaxing – not scrolling. Stream what you love: Enjoy free TV, live news, sports, movies, and more. Endless free entertainment: Access the best selection of free entertainment with 250+ live TV channels, award-winning Roku Originals, in-season shows, hit movies, kids’ TV and more. Live TV Channel Guide with 250+ free channels: Use the convenient live TV guide to surf broadcast TV and live streaming channels in one place. Cord cutting made easy: Cord cutters can access free, over-the-air HD content thanks to the advanced digital TV tuner with live channel guide or watch live TV from popular cable-replacement services like Sling, Hulu, fuboTV and more.",
+            "features": [
+                "Screen size: 40 Inches",
+                "Supported internet services: Netflix, Disney Plus, Amazon Instant Video, Apple TV, YouTube",
+                "Display technology: LED",
+                "Product Dimensions: 7.4D x 90.4W x 51.8H Centimetres",
+                "Resolution: 1080p",
+                "Refresh rate: 60Hz",
+                "Power Cable, Remote Control, 2x Remote Control Batteries, Stand, Quick Start Guide, User Guide included"
+            ],
+            "price": "$177.99"
+        },
+        {
+            "name": "Sony - 65\" Class X900H Series LED 4K UHD Smart Android TV",
+            "description": "Experience a new level of lifelike picture with the Sony 65 inch X900H Series LED 4K UHD Smart Android TV. With the TRILUMINOS display and 4K HDR processor X1, you'll get stunning picture quality. And with built-in Google Assistant and Alexa compatibility, you can easily control your TV with your voice.",
+            "features": [
+                "TRILUMINOS display for enhanced color accuracy",
+                "4K HDR processor X1 for powerful performance",
+                "Built-in Google Assistant and Alexa compatibility",
+                "Real Game Enhancer"
+            ],
+            "price": "$1,499.99"
+        },
+        {
+            "name": "Hisense - 65\" Class H9G Series LED 4K UHD Smart Android TV",
+            "description": "Experience a new level of lifelike picture with the Hisense 65 inch H9G Series LED 4K UHD Smart Android TV. With the ULED technology and 4K HDR processor, you'll get stunning picture quality. And with built-in Google Assistant and Alexa compatibility, you can easily control your TV with your voice.",
+            "features": [
+                "ULED technology for enhanced color accuracy",
+                "4K HDR processor for powerful performance",
+                "Built-in Google Assistant and Alexa compatibility",
+                "Real Game Enhancer"
+            ],
+            "price": "$999.99"
+        },
+        {
+            "name": "Vizio - 65\" Class M-Series Quantum LED 4K UHD SmartCast TV",
+            "description": "Experience a new level of lifelike picture with the Vizio 65 inch M-Series Quantum LED 4K UHD SmartCast TV. With the quantum color technology and 4K HDR processor, you'll get stunning picture quality. And with built-in Google Chromecast, you can easily stream content from your phone to your TV.",
+            "features": [
+                "Quantum color technology for vivid colors",
+                "4K HDR processor for powerful performance",
+                "Built-in Google Chromecast for easy streaming",
+                "SmartCast technology for voice control"
+            ],
+            "price": "$799.99"
+        },
+        {
+            "name": "Insignia - 43\" Class 4K UHD Smart Fire TV",
+            "description": "Experience a new level of lifelike picture with the Insignia 43 inch 4K UHD Smart Fire TV. With the 4K Ultra HD resolution and Alexa compatibility, you'll get stunning picture quality and easy voice control. And with built-in Fire TV, you'll have access to all of your favorite streaming content.",
+            "features": [
+                "4K Ultra HD resolution for stunning picture quality",
+                "Alexa compatibility for easy voice control",
+                "Built-in Fire TV for access to streaming content",
+                "Real Game Enhancer"
+            ],
+            "price": "$349.99"
+        },
+        {
+            "name": "Vizio - 70\" Class V-Series LED 4K UHD Smart TV",
+            "description": "Experience a new level of lifelike picture with the Vizio 70 inch V-Series LED 4K UHD Smart TV. With the 4K UHD resolution and HDR technology, you'll get stunning picture quality. And with built-in Chromecast, you can easily stream content from your phone to your TV.",
+            "features": [
+                "4K UHD resolution for stunning picture quality",
+                "HDR technology for vivid colors",
+                "Built-in Chromecast for easy streaming",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$599.99"
+        },
+        {
+            "name": "Insignia - 50\" Class 4K UHD Smart Fire TV",
+            "description": "Experience a new level of lifelike picture with the Insignia 50 inch 4K UHD Smart Fire TV. With the 4K Ultra HD resolution and Alexa compatibility, you'll get stunning picture quality and easy voice control. And with built-in Fire TV, you'll have access to all of your favorite streaming content.",
+            "features": [
+                "4K Ultra HD resolution for stunning picture quality",
+                "Alexa compatibility for easy voice control",
+                "Built-in Fire TV for access to streaming content",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$449.99"
+        },
+        {
+            "name": "Sharp - 50\" Class 4K UHD Smart TV",
+            "description": "Experience a new level of lifelike picture with the Sharp 50 inch 4K UHD Smart TV. With the 4K UHD resolution and HDR technology, you'll get stunning picture quality. And with built-in Smart TV features, you'll have access to all of your favorite streaming content.",
+            "features": [
+                "4K UHD resolution for stunning picture quality",
+                "HDR technology for vivid colors",
+                "Built-in Smart TV features for access to streaming content",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$349.99"
+        },
+        {
+            "name": "Sony - 49\" Class X800H Series LED 4K UHD Smart Android TV",
+            "description": "Experience a new level of lifelike picture with the Sony 49 inch X800H Series LED 4K UHD Smart Android TV. With the TRILUMINOS display and 4K HDR processor X1, you'll get stunning picture quality. And with built-in Google Assistant and Alexa compatibility, you can easily control your TV with your voice.",
+            "features": [
+                "TRILUMINOS display for enhanced color accuracy",
+                "4K HDR processor X1 for powerful performance",
+                "Built-in Google Assistant and Alexa compatibility",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$749.99"
+        },
+        {
+            "name": "Sony - 55\" Class BRAVIA XR A95K 4K HDR OLED Google TV",
+            "description": "Introducing the next dimension of picture quality, powered by the intelligent Cognitive Processor XR. Experience astonishing OLED color performance with breakthrough QD-OLED panel technology and XR Triluminos Max. Feel your content come to life with up to 200% as much color brightness of a conventional OLED TV, all being surrounded by the pure black and precisely controlled shadows of XR OLED Contrast Pro.",
+            "features": [
+                "Cognitive Processor XR - Intelligent TV processing understands how humans see te real world to deliver intense contrast with deep blacks, high peak brightness and natural colors.",
+                "XR OLED Contrast Pro",
+                "XR Triluminos Max",
+                "Google TV with Google Assistant",
+                "Stream from Netflix, Disney+, Apple TV, HBO Max, Peacock and many more. Also, stream from your Apple device with AirPlay 2 support.",
+                "Movies included with BRAVIA CORE",
+                "Perfect for PlayStation® 5",
+                "XR 4K Upscaling"
+            ],
+            "price": "$2,299.99"
+        },
+        {
+            "name": "Sony - 32\" Class W830K HD LED Google TV",
+            "description": "Rediscover the excitement of movies and games with stunning HDR contrast powered by X-Reality PRO technology. Google TV with Google Assistant makes it easy to find content from your favorite streaming apps.",
+            "features": [
+                "HDR color and contrast",
+                "Enhanced clarity",
+                "Intelligent motion handling",
+                "Premium smart TV - Stream from Netflix, Disney+, Apple TV, HBO Max, Amazon Prime Video, Peacock and many more.",
+                "Display technology: LED",
+                "Resolution: HD (720p)",
+                "Screen size: 32 Inches",
+                "Refresh rate: 60Hz"
+            ],
+            "price": "$299.99"
+        },
+        {
+            "name": "Hisense - 50\" Class H8G Series LED 4K UHD Smart Android TV",
+            "description": "Experience a new level of lifelike picture with the Hisense 50 inch H8G Series LED 4K UHD Smart Android TV. With the ULED technology and 4K HDR processor, you'll get stunning picture quality. And with built-in Google Assistant and Alexa compatibility, you can easily control your TV with your voice.",
+            "features": [
+                "ULED technology for enhanced color accuracy",
+                "4K HDR processor for powerful performance",
+                "Built-in Google Assistant and Alexa compatibility",
+                "Real Game Enhancer for optimized gaming performance"
+            ],
+            "price": "$449.99"
+        },
+        {
+            "name": "Hisense 40H55G - 40 inch Smart Full HD TV 1080P VIDAA Television, Black",
+            "description": "Stream movies and TV shows in full HD picture quality. The Hisense H55G uses the VIDAA operating system, which is more than just a user interface. It’s the proprietary OS for Hisense Smart TVs. Originally designed in Canada, it’s fully optimized for each one of our televisions. Game Mode lets you experience pure realism and stay ahead of the game with minimal input lag - which boosts your chances of scoring legendary wins! VIDAA is a fast and simple smart OS that loads quickly and allows you access to some of your favourite apps like Netflix, Amazon Prime Video, Tubi or Facebook Watch. Interact with your Hisense TV in the most natural way possible - by talking. Quickly access entertainment, get answers, and control smart devices around your home—all with just your voice. Blinked and you missed it? Think again. The H55G is built with motion in mind. Motion Rate image processing makes it so you can keep your eye on the ball, chase scene, or multi-player battle. Gamers see lag times drop and viewers see all the key moments in live sports or action movies. Captivating scenes grab your attention – and keep it with smooth motion. DTS Virtual:X technology is a versatile advanced post-processing package that creates an immersive audio experience that includes psychoacoustic bass enhancements and multichannel virtual surround sound. Experience more lifelike, multidimensional audio on your Hisense H55G.",
+            "features": [
+                "TV technology",
+                "Product Dimensions: 8.6D x 89.4W x 51.3H Centimetres",
+                "Resolution: 1080p"
+            ],
+            "price": "$227.99"
+        },
+        {
+            "name": "Vizio - 55\" Class M-Series Quantum LED 4K UHD SmartCast TV",
+            "description": "Experience a new level of lifelike picture with the Vizio 55 inch M-Series Quantum LED 4K UHD SmartCast TV. With the quantum color technology and 4K HDR processor, you'll get stunning picture quality. And with built-in Google Chromecast, you can easily stream content from your phone to your TV.",
+            "features": [
+                "Quantum color technology for vivid colors",
+                "4K HDR processor for powerful performance",
+                "Built-in Google Chromecast for easy streaming",
+                "SmartCast technology for voice control"
+            ],
+            "price": "$499.99"
+        },
+        {
+            "name": "LG - 65\" Class NanoCell 99 Series LED 8K UHD Smart webOS TV",
+            "description": "Experience everything in more detail with LG NanoCell 8K. LG's most advanced 8K AI processor optimizes composition, black, light and color in every scene, while the native 120Hz refresh rate is great for fast action. And, AI 8K upscaling makes everything you watch – including non-8K content – look like 8K.",
+            "features": [
+                "8K UHD resolution",
+                "65 inches",
+                "Display technology: LED",
+                "Refresh rate: 120Hz",
+                "Brand: LG",
+                "Smart Platform: webOS",
+                "Featured Streaming Services: HBO Max, Netflix, Prime Video, Disney+, Apple TV+, Hulu, Paramount+, Peacock, YouTube TV, Spotify, iHeartRadio",
+                "Works with Google Assistant, Amazon Alexa, Apple HomeKit"
+            ],
+            "price": "$1,799.99"
+        }
+    ]
+}

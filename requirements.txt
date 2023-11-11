@@ -1,5 +1,5 @@
 openai
-langchain==0.0.325
+langchain==0.0.329
 typing-extensions==4.2.0
 sentence-transformers
 torch

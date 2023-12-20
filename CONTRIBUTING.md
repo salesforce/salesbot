@@ -1,4 +1,4 @@
-# Contributing Guide For {NAME OF PROJECT}
+# Contributing Guide For salesbot
 
 This page lists the operational governance model of this project, as well as the recommendations and requirements for how to best contribute to {PROJECT}. We strive to obey these as best as possible. As always, thanks for contributing – we hope these guidelines make it easier and shed some light on our approach and processes.
 
@@ -63,8 +63,6 @@ Issues labelled `good first contribution`.
   - Comments on complex blocks of code or algorithms (include references to sources).
 - [x] Tests
   - The test suite, if provided, must be complete and pass
-  - Increase code coverage, not versa.
-  - Use any of our testkits that contains a bunch of testing facilities you would need. For example: `import com.salesforce.op.test._` and borrow inspiration from existing tests.
 - [x] Dependencies
   - Minimize number of dependencies.
   - Prefer Apache 2.0, BSD3, MIT, ISC and MPL licenses.

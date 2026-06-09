@@ -44,7 +44,7 @@ def chat_completions_with_backoff(**kwargs):
     return openai.ChatCompletion.create(**kwargs)
 
 
-def posprocess_result(generated_response: str) -> str:
+def postprocess_result(generated_response: str) -> str:
     SALESPERSON = "\nSalesperson:"
     if SALESPERSON in generated_response:
         start = generated_response.find(SALESPERSON)
@@ -130,17 +130,17 @@ class ShopperBot(object):
                 self.known_preferences.append(revealed_preference)
             curr_preferences = '\n'.join(self.known_preferences)
 
-        resonse_gen_prompt = generate_prompt.format(
+        response_gen_prompt = generate_prompt.format(
             product=self.product,
             preferences=curr_preferences,
             chat_history=full_chat_history
         )
         try:
-            generated_result = self.openai_chat_generate(resonse_gen_prompt).strip()
-            text = posprocess_result(generated_result)
+            generated_result = self.openai_chat_generate(response_gen_prompt).strip()
+            text = postprocess_result(generated_result)
             return {"speaker": "Shopper", "text": text, "preferences": curr_preferences}
         except Exception as e:
-            print(f"ERROR! on input {resonse_gen_prompt}. Error: {e}")
+            print(f"ERROR! on input {response_gen_prompt}. Error: {e}")
             if retry <= 0:
                 text = "[DONE]"
                 return {"speaker": "Shopper", "text": text, "preferences": curr_preferences}

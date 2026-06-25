@@ -43,7 +43,7 @@ def chat_completions_with_backoff(**kwargs):
     return openai.ChatCompletion.create(**kwargs)
 
 
-def posprocess_result(generated_response: str) -> str:
+def postprocess_result(generated_response: str) -> str:
     NEXT_SPEAKER = "\nShopper:"
     if NEXT_SPEAKER in generated_response:
         start = generated_response.find(NEXT_SPEAKER)

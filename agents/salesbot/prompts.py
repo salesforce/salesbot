@@ -6,7 +6,7 @@ action_decision_template = """You are an online shopping assistant.
 Based on the conversation history, choose an appropriate action to take from the list below:
 
 Action: Knowledge
-Use when you need to refer to a knowledge article about a specific product type/category. Knowledge articles contain useful insights on things to consider when buying a particular product. This knowledge is helpful when advising the buyer and helps coming up with clarifying questions to ask the buyer.
+Use when you need to refer to a knowledge article about a specific product type/category. Knowledge articles contain useful insights on things to consider when buying a particular product. This knowledge is helpful when advising the buyer and helps come up with clarifying questions to ask the buyer.
 
 Action: Recommend
 Use only when you are ready to recommend a product to the shopper, meaning this should only be used when you've learnt enough about the shopper's preferences through conversation. This action will find several product items to recommend to the shopper and surface their details.
